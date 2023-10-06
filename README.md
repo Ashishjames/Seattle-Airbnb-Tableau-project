@@ -6,4 +6,4 @@ https://www.kaggle.com/datasets/airbnb/seattle
 
 # DASHBOARD
 
-![AirbnbDashboard](AirbnbDashboard.PNG)
+![AirbnbDashboard](AirbnbDashboard.png)
