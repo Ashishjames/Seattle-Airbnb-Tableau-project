@@ -31,5 +31,6 @@ The objective of this Tableau project is to analyze and visualize Seattle Airbnb
 
 
 # Dashboard
+LINK : https://public.tableau.com/views/AirbnbFullProject_16965157768000/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ![AirbnbDashboard](AirbnbDashboard.png)
